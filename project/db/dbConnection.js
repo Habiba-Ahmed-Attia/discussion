@@ -1,3 +1,4 @@
+const musql=require("mysql");
 const connection=mysql.createConnection(
     {
         host:"localhost",
